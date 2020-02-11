@@ -16,6 +16,11 @@
   height: 12.5rem;
   margin-right: 1.5rem;
 }
+.map-container{
+  
+  height :100%;
+  width: 100%;
+}
 
 .place-item__image img {
   width: 100%;
